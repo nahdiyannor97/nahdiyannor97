@@ -4,7 +4,7 @@
 
 ## Full Stack Developer
 
-A results-driven **Full Stack Developer** with over **4 years of experience** in designing, developing, and implementing robust software solutions. I am proficient in multiple programming languages and frameworks, with a strong focus on the entire software development lifecycle (SDLC)—from concept to deployment and maintenance.
+A results-driven **Full Stack Developer** with over **5++ years of experience** in designing, developing, and implementing robust software solutions. I am proficient in multiple programming languages and frameworks, with a strong focus on the entire software development lifecycle (SDLC)—from concept to deployment and maintenance.
 
 ---
 
@@ -35,7 +35,7 @@ A results-driven **Full Stack Developer** with over **4 years of experience** in
 
 ---
 
-### 💼 Latest Experience
+### 💼 Current role
 
 **Full Stack Developer** | *Oil & Gas Industry*
 *July 2021 – Present*
@@ -64,7 +64,7 @@ A results-driven **Full Stack Developer** with over **4 years of experience** in
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nahdiyan-noor/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
