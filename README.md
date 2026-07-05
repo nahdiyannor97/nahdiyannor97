@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5EB4FF&height=200&section=header&text=Building%20SaaS%20and%20Production-Ready%20Apps&fontColor=ffffff&fontSize=30" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20Views-2,055-5EB4FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Followers-3.4k-5EB4FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Total%20Stars-220-5EB4FF?style=flat-square" />
+</p>
+
+---
+
 # Hi, I'm Nahdiyan Noor 👋
 
 ## Full Stack Developer
@@ -8,23 +20,25 @@ A results-driven **Full Stack Developer** with over **4 years of experience** in
 
 ### 🛠 Technical Skills
 
-**Languages**
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="center">
+  <strong>Languages</strong><br>
+  <img src="https://skillicons.dev/icons?i=cs,py,js,ts,sql" />
+</p>
 
-**Frameworks & Libraries**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Plotly Dash](https://img.shields.io/badge/Plotly_Dash-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+<p align="center">
+  <strong>Frameworks & Libraries</strong><br>
+  <img src="https://skillicons.dev/icons?i=react,fastapi,dotnet" /><br>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly_Dash-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
 
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+<p align="center">
+  <strong>Tools & Platforms</strong><br>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux,notion" /><br>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /><br>
+  <i>Daily Driver: Linux (Debian & Arch Based)</i>
+</p>
 
 ---
 
@@ -40,10 +54,29 @@ A results-driven **Full Stack Developer** with over **4 years of experience** in
 
 ---
 
-### 📫 Connect with Me
+### 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahdiyan-noor/)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nahdiyannor97&theme=react" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nahdiyannor97&theme=react" width="49%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nahdiyannor97&theme=react" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nahdiyannor97&theme=react&utcOffset=8" width="49%" />
+</p>
 
 ---
 
-*"Passionate about solving problems through clean code and efficient design."*
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nahdiyan-noor/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Passionate about solving problems through clean code and efficient design."</i>
+</p>
