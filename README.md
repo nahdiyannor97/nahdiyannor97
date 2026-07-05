@@ -63,7 +63,7 @@ A results-driven **Full Stack Developer** with over **5++ years of experience** 
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nahdiyan-noor/">
+  <a href="https://www.linkedin.com/in/nahdiyan-noor/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
