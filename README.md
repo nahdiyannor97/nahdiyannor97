@@ -12,12 +12,12 @@ A results-driven **Full Stack Developer** with over **4 years of experience** in
 
 <p align="center">
   <strong>Languages</strong><br><br>
-  <img src="https://skillicons.dev/icons?i=cs,py,js,ts,mysql" />
+  <img src="https://skillicons.dev/icons?i=cs,py,js,ts,html,css,mysql,postgres" />
 </p>
 
 <p align="center">
   <strong>Frameworks & Libraries</strong><br><br>
-  <img src="https://skillicons.dev/icons?i=react,fastapi,flask,dotnet,nestjs" /><br><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,flask,dotnet,nestjs" /><br><br>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Plotly_Dash-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
@@ -25,8 +25,12 @@ A results-driven **Full Stack Developer** with over **4 years of experience** in
 
 <p align="center">
   <strong>Tools & Platforms</strong><br><br>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux,notion" /><br><br>
-  <i>Daily Driver: Linux (Debian & Arch Based)</i>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,nodejs,npm,pnpm,vim,notion" />
+</p>
+
+<p align="center">
+  <strong>Daily Driver</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=linux,debian,windows" />
 </p>
 
 ---
