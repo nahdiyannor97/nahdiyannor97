@@ -1,13 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5EB4FF&height=200&section=header&text=Building%20SaaS%20and%20Production-Ready%20Apps&fontColor=ffffff&fontSize=30" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-2,055-5EB4FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Followers-3.4k-5EB4FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Total%20Stars-220-5EB4FF?style=flat-square" />
-</p>
-
 ---
 
 # Hi, I'm Nahdiyan Noor 👋
@@ -21,22 +11,21 @@ A results-driven **Full Stack Developer** with over **4 years of experience** in
 ### 🛠 Technical Skills
 
 <p align="center">
-  <strong>Languages</strong><br>
-  <img src="https://skillicons.dev/icons?i=cs,py,js,ts,sql" />
+  <strong>Languages</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=cs,py,js,ts,mysql" />
 </p>
 
 <p align="center">
-  <strong>Frameworks & Libraries</strong><br>
-  <img src="https://skillicons.dev/icons?i=react,fastapi,dotnet" /><br>
+  <strong>Frameworks & Libraries</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=react,fastapi,flask,dotnet,nestjs" /><br><br>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Plotly_Dash-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
 <p align="center">
-  <strong>Tools & Platforms</strong><br>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux,notion" /><br>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /><br>
+  <strong>Tools & Platforms</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux,notion" /><br><br>
   <i>Daily Driver: Linux (Debian & Arch Based)</i>
 </p>
 
