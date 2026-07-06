@@ -47,19 +47,6 @@ A results-driven **Full Stack Developer** with over **5++ years of experience** 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nahdiyannor97&theme=react" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nahdiyannor97&theme=react" width="49%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nahdiyannor97&theme=react" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nahdiyannor97&theme=react&utcOffset=8" width="49%" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
 <p align="center">
