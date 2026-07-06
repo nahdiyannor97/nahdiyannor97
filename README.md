@@ -4,7 +4,7 @@
 
 ## Full Stack Developer
 
-A results-driven **Full Stack Developer** with over **5++ years of experience** in designing, developing, and implementing robust software solutions. I am proficient in multiple programming languages and frameworks, with a strong focus on the entire software development lifecycle (SDLC) from concept to deployment and maintenance.
+A results-driven **Full Stack Developer** with over **5+ years of experience** in designing, developing, and implementing robust software solutions. I am proficient in multiple programming languages and frameworks, with a strong focus on the entire software development lifecycle (SDLC) from concept to deployment and maintenance.
 
 ---
 
